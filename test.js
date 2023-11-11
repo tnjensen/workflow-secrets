@@ -8,3 +8,4 @@ function test(expectedSecret) {
 }
 
 test(42)
+
